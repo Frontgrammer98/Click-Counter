@@ -68,7 +68,7 @@ src/
 ```
 ## Contact
 
-<img src="./screenshots/relogo.png.png" alt="Click Counter" width="300">
+<img src="./screenshots/relogo.png" alt="Re Developer" width="300">
 
 [Ricardo Estrada]
 
