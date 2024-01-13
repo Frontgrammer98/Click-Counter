@@ -1,0 +1,16 @@
+*{
+  font-family: monospace,sans-serif;
+}
+html,body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: rgb(27,27,50);
+  background: linear-gradient(135deg, rgba(27,27,50,1) 0%, rgba(87,87,195,1) 50%, rgba(255,84,233,1) 100%);
+  overflow-y: hidden;
+
+}
+.App{
+  width: 100vw;
+  height: 100vh;
+}
