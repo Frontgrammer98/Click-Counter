@@ -1,9 +1,17 @@
+// Importing the React library and the Button component's styles
 import React from "react";
-import '../styles/Button.css'
+import '../styles/Button.css';
 
-function Button ({ isSum, input, action }){
-    return(
-        <div className={isSum ? 'increment' : 'decrement'} onClick={action}>{input}</div>        
+// Button component that represents a clickable button
+function Button({ isSum, input, action }) {
+    return (
+        // Div representing the button with a dynamic class based on isSum prop
+        <div className={isSum ? 'increment' : 'decrement'} onClick={action}>
+            {/* Displaying the label on the button */}
+            {input}
+        </div>
     );
 }
+
+// Exporting the Button component for use in other files
 export default Button;
