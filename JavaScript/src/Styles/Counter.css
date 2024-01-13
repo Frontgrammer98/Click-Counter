@@ -1,0 +1,12 @@
+.counter-container{
+    height: 250px;
+    width: 250px;
+    margin: 50px 0;
+    border: 5px solid rgb(38, 128, 119);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 100px;
+}

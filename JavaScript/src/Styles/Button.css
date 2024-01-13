@@ -1,0 +1,19 @@
+.increment,.decrement{
+    border: 5px solid white;
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aquamarine;
+    font-size: 50px;
+    cursor: pointer;
+    user-select: none;
+    margin: 0 25px;
+}
+.decrement{
+    height: 63px;
+    width: 63px;
+    margin-left: 0;
+}
