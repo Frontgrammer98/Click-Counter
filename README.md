@@ -18,7 +18,7 @@
 
 ## Contact
 
-![RE Developer](./screenshots/click-counter-screenshot.png)
+![RE Developer](https://raw.githubusercontent.com/Frontgrammer98/Click-Counter/main/TypeScript/screenshots/relogo.png)
 
 [Ricardo Estrada]
 
