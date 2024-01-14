@@ -15,56 +15,10 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Installation
 
 
-Ensure you have Node.js and npm installed on your machine. Then, clone the repository and run:
-
-```bash
-npm install
-```
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Frontgrammer98/Click-Counter.git
-```
-
-Go to the project directory
-
-```bash
-  cd TypeScript
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-
-  o + Enter
-```
 
 
-## Project Structure
-```bash
-src/
-|-- components/
-|   |-- Button.js
-|   |-- Counter.js
-|-- styles/
-|   |-- Button.css
-|   |-- Counter.css
-|-- App.js
-|-- App.css
-|-- index.js
 ```
 ## Contact
 
