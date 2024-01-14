@@ -57,14 +57,16 @@ Start the server
 ```bash
 src/
 |-- components/
-|   |-- Button.js
-|   |-- Counter.js
+|   |-- Logo.tsx
+|   |-- Counter.tsx
 |-- styles/
-|   |-- Button.css
+|   |-- Logo.css
 |   |-- Counter.css
-|-- App.js
 |-- App.css
-|-- index.js
+|-- App.tsx
+|-- index.css
+|-- main.tsx
+|-- vite-env.d.ts
 ```
 ## Contact
 
