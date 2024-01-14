@@ -37,7 +37,7 @@ Make sure you have the following installed on your machine:
 2. Navigate to the project directory:
 
     ```bash
-    cd project-name
+    cd JavaScript
     ```
 
 3. Install dependencies:
@@ -60,16 +60,15 @@ npm start
 ```bash
 src/
 |-- components/
-|   |-- Logo.tsx
-|   |-- Counter.tsx
+|   |-- Button.jsx
+|   |-- Counter.jsx
 |-- styles/
-|   |-- Logo.css
+|   |-- Button.css
 |   |-- Counter.css
 |-- App.css
-|-- App.tsx
+|-- App.js
 |-- index.css
-|-- main.tsx
-|-- vite-env.d.ts
+|-- index.js
 ```
 ## Contact
 
