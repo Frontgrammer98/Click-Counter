@@ -1,4 +1,4 @@
-.increment,.decrement{
+.increment,.decrement,.reset{
     border: 5px solid white;
     height: 125px;
     width: 125px;
@@ -16,4 +16,10 @@
     height: 63px;
     width: 63px;
     margin-left: 0;
+}
+.reset{
+    height: 31.5px;
+    width: 31.5px;
+    margin-left: 0;
+
 }

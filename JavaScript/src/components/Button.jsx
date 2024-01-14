@@ -3,10 +3,10 @@ import React from "react";
 import '../styles/Button.css';
 
 // Button component that represents a clickable button
-function Button({ isSum, input, action }) {
+function Button({ style, input, action }) {
     return (
         // Div representing the button with a dynamic class based on isSum prop
-        <div className={isSum ? 'increment' : 'decrement'} onClick={action}>
+        <div className={style} onClick={action}>
             {/* Displaying the label on the button */}
             {input}
         </div>
