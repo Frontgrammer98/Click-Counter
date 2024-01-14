@@ -3,7 +3,8 @@
 
 ## Screenshots
 
-![Click Counter](https://raw.githubusercontent.com/Frontgrammer98/Click-Counter/main/TypeScript/screenshots/click-counter-screenshot.png)
+![Click Counter TS](/screenshots/click-counter-screenshot.png)
+![Click Counter JS](/screenshots/javascript-counter.png)
 
 👆 Experience a delightful click counting journey with this simple yet powerful Click Counter built using React, Vite, and TypeScript. Whether you're exploring the magic of React, the speed of Vite, or the type safety of TypeScript, this project brings them all together in a fun and interactive way. Just start the application, click the button, and watch the counter rise. It's a perfect playground to get hands-on with these cutting-edge technologies and enjoy the simplicity of a click counter. 🚀
 
@@ -22,7 +23,7 @@ Select the techonoly of your interest in the repository folder for more detailed
 
 ## Contact
 
-![RE Developer](https://raw.githubusercontent.com/Frontgrammer98/Click-Counter/main/TypeScript/screenshots/relogo.png)
+![RE Developer](./screenshots/relogo.png)
 
 [Ricardo Estrada]
 
