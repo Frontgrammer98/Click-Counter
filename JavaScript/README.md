@@ -15,42 +15,45 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Installation
+## Getting Started
 
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. 
 
-Ensure you have Node.js and npm installed on your machine. Then, clone the repository and run:
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/project-name.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd project-name
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+### Running the Application
+
+To start the development server and view the project in your browser, run:
 
 ```bash
-npm install
+npm start
 ```
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Frontgrammer98/Click-Counter.git
-```
-
-Go to the project directory
-
-```bash
-  cd TypeScript
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-
-  o + Enter
-```
 
 
 ## Project Structure
